@@ -1,3 +1,7 @@
+# Andiamo in Cloud: il canale in Italiano per imparare a sviluppare applicazioni in Cloud
+# https://www.youtube.com/@andiamoincloud
+# https://www.youtube.com/watch?v=eOzg98EZol8
+
 import json
 from datetime import datetime
 
